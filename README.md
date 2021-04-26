@@ -1,1 +1,1 @@
-# autheticationPractice
+# authenticationPractice
